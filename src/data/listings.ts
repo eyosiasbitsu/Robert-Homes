@@ -21,7 +21,7 @@ const DEMO_STAY_LISTINGS = __stayListing.map((post, index): StayDataType => {
     address: "Koh Samui, Thailand",
     reviewStart: 4.5,
     reviewCount: 0,
-    galleryImgs: [post.featuredImage],
+    galleryImgs: post.galleryImgs, // <-- Use the original galleryImgs array
     bedrooms: 3,
     bathrooms: 2,
     maxGuests: 6,

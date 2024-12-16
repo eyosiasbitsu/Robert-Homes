@@ -20,38 +20,11 @@ export interface SectionSliderNewCategoriesProps {
   categoryCardType?: string;
 }
 
-const DEMO_CATS: TaxonomyType[] = [
-  {
-    id: "1",
-    href: "/listing-real-estate",
-    name: "Nature House for Sale",
-    taxonomy: "category",
-    count: 17288,
-    thumbnail: "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-  },
-  {
-    id: "2",
-    href: "/listing-real-estate",
-    name: "Wooden House for Sale",
-    taxonomy: "category",
-    count: 2118,
-    thumbnail: "https://images.pexels.com/photos/2351649/pexels-photo-2351649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-  },
-  {
-    id: "3",
-    href: "/listing-real-estate",
-    name: "Modern Houseboat for Sale",
-    taxonomy: "category",
-    count: 36612,
-    thumbnail: "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-  },
-];
-
 const SectionSliderNewCategories: FC<SectionSliderNewCategoriesProps> = ({
   heading = "Explore Real Estate Listings",
   subHeading = "Popular homes for sale",
   className = "",
-  categories = DEMO_CATS,
+  categories = [],
   itemPerRow = 4,
 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);

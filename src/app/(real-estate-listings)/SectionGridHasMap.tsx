@@ -3,7 +3,7 @@
 import React, { FC, useState } from "react";
 import AnyReactComponent from "@/components/AnyReactComponent/AnyReactComponent";
 import GoogleMapReact from "google-map-react";
-import { DEMO_STAY_LISTINGS } from "@/data/listings";
+import { DEMO_STAY_LISTINGS } from "../../data/listings";
 import ButtonClose from "@/shared/ButtonClose";
 import Checkbox from "@/shared/Checkbox";
 import Pagination from "@/shared/Pagination";
