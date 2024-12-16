@@ -20,31 +20,6 @@ export const headerLanguage = [
   { id: "Malay", name: "Malay", description: "Malaysia", flag: "🇲🇾" },
 ];
 
-// // Currency data with icons
-// export const headerCurrency = [
-//   {
-//     id: "USD",
-//     name: "USD",
-//     icon: <CurrencyDollarIcon className="w-5 h-5 opacity-80" />,
-//     active: true,
-//   },
-//   {
-//     id: "EUR",
-//     name: "EUR",
-//     icon: <CurrencyEuroIcon className="w-5 h-5 opacity-80" />,
-//   },
-//   {
-//     id: "GBP",
-//     name: "GBP",
-//     icon: <CurrencyPoundIcon className="w-5 h-5 opacity-80" />,
-//   },
-//   {
-//     id: "SAR",
-//     name: "SAR",
-//     icon: <CurrencyRupeeIcon className="w-5 h-5 opacity-80" />,
-//   },
-// ];
-
 const SiteHeader: React.FC = () => {
   return (
     <div className="w-full bg-white dark:bg-neutral-900 border-b border-neutral-200 dark:border-neutral-700 shadow-sm">
