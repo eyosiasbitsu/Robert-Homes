@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "title": "Greenfield Manor for Sale",
+    "featuredImage": "https://images.pexels.com/photos/5764100/pexels-photo-5764100.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/1268871/pexels-photo-1268871.jpeg",
+      "https://images.pexels.com/photos/1179156/pexels-photo-1179156.jpeg",
+      "https://images.pexels.com/photos/2506988/pexels-photo-2506988.jpeg",
+      "https://images.pexels.com/photos/2373201/pexels-photo-2373201.jpeg"
+    ],
+    "price": "THB 11100000",
+    "location": "Bophut",
+    "buildingArea": "220 sq. meters",
+    "landArea": "450 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2018",
+    "saleOff": "-10% today"
+  },
+  {
+    "id": "2",
+    "title": "Lakeview Retreat for Sale",
+    "featuredImage": "https://images.pexels.com/photos/2869499/pexels-photo-2869499.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/6434634/pexels-photo-6434634.jpeg",
+      "https://images.pexels.com/photos/3201735/pexels-photo-3201735.jpeg",
+      "https://images.pexels.com/photos/4577673/pexels-photo-4577673.jpeg",
+      "https://images.pexels.com/photos/6474535/pexels-photo-6474535.jpeg"
+    ],
+    "price": "THB 11150000",
+    "location": "Bophut",
+    "buildingArea": "230 sq. meters",
+    "landArea": "470 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2017",
+    "saleOff": "-10% today"
+  },
+  {
+    "id": "3",
+    "title": "Modern Urban Villa for Sale",
+    "featuredImage": "https://images.pexels.com/photos/7031413/pexels-photo-7031413.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/4186560/pexels-photo-4186560.jpeg",
+      "https://images.pexels.com/photos/2404422/pexels-photo-2404422.jpeg",
+      "https://images.pexels.com/photos/2677398/pexels-photo-2677398.jpeg",
+      "https://images.pexels.com/photos/756078/pexels-photo-756078.jpeg"
+    ],
+    "price": "THB 11200000",
+    "location": "Bophut",
+    "buildingArea": "240 sq. meters",
+    "landArea": "490 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2016"
+  },
+  {
+    "id": "4",
+    "title": "Sunny Hillside Residence for Sale",
+    "featuredImage": "https://images.pexels.com/photos/247532/pexels-photo-247532.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/2290738/pexels-photo-2290738.jpeg",
+      "https://images.pexels.com/photos/751268/pexels-photo-751268.jpeg",
+      "https://images.pexels.com/photos/3201922/pexels-photo-3201922.jpeg",
+      "https://images.pexels.com/photos/2404422/pexels-photo-2404422.jpeg"
+    ],
+    "price": "THB 11250000",
+    "location": "Bophut",
+    "buildingArea": "250 sq. meters",
+    "landArea": "510 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2015"
+  },
+  {
+    "id": "5",
+    "title": "Riverside Cottage for Sale",
+    "featuredImage": "https://images.pexels.com/photos/5764100/pexels-photo-5764100.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/261327/pexels-photo-261327.jpeg",
+      "https://images.pexels.com/photos/2079452/pexels-photo-2079452.jpeg",
+      "https://images.pexels.com/photos/261410/pexels-photo-261410.jpeg",
+      "https://images.pexels.com/photos/2983472/pexels-photo-2983472.jpeg"
+    ],
+    "price": "THB 11300000",
+    "location": "Bophut",
+    "buildingArea": "260 sq. meters",
+    "landArea": "530 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2014"
+  },
+  {
+    "id": "6",
+    "title": "Ocean Breeze Bungalow for Sale",
+    "featuredImage": "https://images.pexels.com/photos/2869499/pexels-photo-2869499.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/2373201/pexels-photo-2373201.jpeg",
+      "https://images.pexels.com/photos/2736187/pexels-photo-2736187.jpeg",
+      "https://images.pexels.com/photos/6900098/pexels-photo-6900098.jpeg",
+      "https://images.pexels.com/photos/1371313/pexels-photo-1371313.jpeg"
+    ],
+    "price": "THB 11350000",
+    "location": "Bophut",
+    "buildingArea": "270 sq. meters",
+    "landArea": "550 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2013"
+  },
+  {
+    "id": "7",
+    "title": "The Grand Estate for Sale",
+    "featuredImage": "https://images.pexels.com/photos/7031413/pexels-photo-7031413.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/3068519/pexels-photo-3068519.jpeg",
+      "https://images.pexels.com/photos/1638341/pexels-photo-1638341.jpeg",
+      "https://images.pexels.com/photos/8506437/pexels-photo-8506437.jpeg",
+      "https://images.pexels.com/photos/3935311/pexels-photo-3935311.jpeg"
+    ],
+    "price": "THB 11400000",
+    "location": "Bophut",
+    "buildingArea": "280 sq. meters",
+    "landArea": "570 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2012"
+  },
+  {
+    "id": "8",
+    "title": "Serenity Lake House for Sale",
+    "featuredImage": "https://images.pexels.com/photos/247532/pexels-photo-247532.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/2343466/pexels-photo-2343466.jpeg",
+      "https://images.pexels.com/photos/276746/pexels-photo-276746.jpeg",
+      "https://images.pexels.com/photos/1571469/pexels-photo-1571469.jpeg",
+      "https://images.pexels.com/photos/3946663/pexels-photo-3946663.jpeg"
+    ],
+    "price": "THB 11450000",
+    "location": "Bophut",
+    "buildingArea": "290 sq. meters",
+    "landArea": "590 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2011"
+  },
+  {
+    "id": "9",
+    "title": "Golden Horizon Cottage for Sale",
+    "featuredImage": "https://images.pexels.com/photos/5764100/pexels-photo-5764100.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/3935326/pexels-photo-3935326.jpeg",
+      "https://images.pexels.com/photos/3935326/pexels-photo-3935326.jpeg",
+      "https://images.pexels.com/photos/3935326/pexels-photo-3935326.jpeg",
+      "https://images.pexels.com/photos/3935326/pexels-photo-3935326.jpeg"
+    ],
+    "price": "THB 11500000",
+    "location": "Bophut",
+    "buildingArea": "300 sq. meters",
+    "landArea": "610 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2010"
+  },
+  {
+    "id": "10",
+    "title": "Blue Lagoon Villa for Sale",
+    "featuredImage": "https://images.pexels.com/photos/2869499/pexels-photo-2869499.jpeg",
+    "galleryImgs": [
+      "https://images.pexels.com/photos/1539777/pexels-photo-1539777.jpeg",
+      "https://images.pexels.com/photos/1539777/pexels-photo-1539777.jpeg",
+      "https://images.pexels.com/photos/1539777/pexels-photo-1539777.jpeg",
+      "https://images.pexels.com/photos/1539777/pexels-photo-1539777.jpeg"
+    ],
+    "price": "THB 11550000",
+    "location": "Bophut",
+    "buildingArea": "310 sq. meters",
+    "landArea": "630 sq. meters",
+    "status": "Private",
+    "ownership": "Chanote",
+    "yearBuilt": "2009"
+  }
+]
