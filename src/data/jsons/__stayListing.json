@@ -16,7 +16,8 @@
     "status": "Private",
     "ownership": "Chanote",
     "yearBuilt": "2018",
-    "saleOff": "-10% today"
+    "saleOff": "-10% today",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "2",
@@ -35,7 +36,8 @@
     "status": "Private",
     "ownership": "Chanote",
     "yearBuilt": "2017",
-    "saleOff": "-10% today"
+    "saleOff": "-10% today",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "3",
@@ -53,7 +55,8 @@
     "landArea": "490 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2016"
+    "yearBuilt": "2016",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "4",
@@ -71,7 +74,8 @@
     "landArea": "510 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2015"
+    "yearBuilt": "2015",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "5",
@@ -89,7 +93,8 @@
     "landArea": "530 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2014"
+    "yearBuilt": "2014",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "6",
@@ -107,7 +112,8 @@
     "landArea": "550 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2013"
+    "yearBuilt": "2013",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "7",
@@ -125,7 +131,8 @@
     "landArea": "570 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2012"
+    "yearBuilt": "2012",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "8",
@@ -143,7 +150,8 @@
     "landArea": "590 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2011"
+    "yearBuilt": "2011",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "9",
@@ -161,7 +169,8 @@
     "landArea": "610 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2010"
+    "yearBuilt": "2010",
+    "listingCategoryId": "cat1"
   },
   {
     "id": "10",
@@ -179,6 +188,7 @@
     "landArea": "630 sq. meters",
     "status": "Private",
     "ownership": "Chanote",
-    "yearBuilt": "2009"
+    "yearBuilt": "2009",
+    "listingCategoryId": "cat1"
   }
 ]
