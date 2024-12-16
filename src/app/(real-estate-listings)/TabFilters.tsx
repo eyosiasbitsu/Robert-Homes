@@ -8,7 +8,6 @@ import ButtonClose from "@/shared/ButtonClose";
 import Checkbox from "@/shared/Checkbox";
 import convertNumbThousand from "@/utils/convertNumbThousand";
 import Slider from "rc-slider";
-import NcInputNumber from "@/components/NcInputNumber";
 import { XMarkIcon } from "@heroicons/react/24/outline";
 
 // DEMO DATA
@@ -79,11 +78,6 @@ const TabFilters = () => {
             >
               <Popover.Panel className="absolute z-10 w-screen max-w-sm px-4 mt-3 left-0 sm:px-0 lg:max-w-md">
                 <div className="overflow-hidden rounded-2xl shadow-xl bg-white dark:bg-neutral-900   border border-neutral-200 dark:border-neutral-700">
-                  <div className="relative flex flex-col px-5 py-6 space-y-5">
-                    <NcInputNumber label="Beds" max={10} />
-                    <NcInputNumber label="Bedrooms" max={10} />
-                    <NcInputNumber label="Bathrooms" max={10} />
-                  </div>
                   <div className="p-5 bg-neutral-50 dark:bg-neutral-900 dark:border-t dark:border-neutral-800 flex items-center justify-between">
                     <ButtonThird onClick={close} sizeClass="px-4 py-2 sm:px-5">
                       Clear
@@ -396,11 +390,6 @@ const TabFilters = () => {
                       {/* ---- */}
                       <div className="py-7">
                         <h3 className="text-xl font-medium">Rooms and beds</h3>
-                        <div className="mt-6 relative flex flex-col space-y-5">
-                          <NcInputNumber label="Beds" max={10} />
-                          <NcInputNumber label="Bedrooms" max={10} />
-                          <NcInputNumber label="Bathrooms" max={10} />
-                        </div>
                       </div>
 
                       {/* ---- */}
