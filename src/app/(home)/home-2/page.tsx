@@ -1,14 +1,8 @@
 "use client";
 
 import React from "react";
-import SectionSliderNewCategories from "@/components/SectionSliderNewCategories";
-import SectionHowItWork from "@/components/SectionHowItWork";
 import SectionHero2 from "@/app/(server-components)/SectionHero2";
 import { Route } from "@/routers/types";
-
-import HIW1img from "@/images/HIW2-1.png";
-import HIW2img from "@/images/HIW2-2.png";
-import HIW3img from "@/images/HIW2-3.png";
 
 type TaxonomyType = {
   id: string;
@@ -187,25 +181,7 @@ function PageHome2() {
     <main className="nc-PageHome2 relative overflow-hidden">
       <div className="container relative space-y-24 mb-24 lg:space-y-28 lg:mb-28">
         {/* HERO SECTION */}
-        <SectionHero2 className="" />
-
-        {/* HOW IT WORKS */}
-        <SectionHowItWork
-          data={[
-            { id: 1, img: HIW1img, title: "Smart search", desc: "Use filters to find homes." },
-            { id: 2, img: HIW2img, title: "Choose property", desc: "Browse tailored listings." },
-            { id: 3, img: HIW3img, title: "Book property", desc: "Secure your perfect home." },
-          ]}
-        />
-
-        {/* SUGGESTIONS FOR DISCOVERY */}
-        <SectionSliderNewCategories
-          categories={DEMO_CATS_2}
-          categoryCardType="card4"
-          itemPerRow={4}
-          heading="Explore Real Estate Listings"
-          subHeading="Find your dream home among popular choices"
-        />
+        <SectionHero2 />
       </div>
     </main>
   );
