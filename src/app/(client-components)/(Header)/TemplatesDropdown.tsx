@@ -4,7 +4,6 @@ import { Fragment } from "react";
 import { NAVIGATION_DEMO_2 } from "@/data/navigation";
 import { NavItemType } from "@/shared/Navigation/NavigationItem";
 import Link from "next/link";
-import Collection from "@/components/Collection";
 
 export default function TemplatesDropdown() {
   const renderMegaMenuNavlink = (
@@ -72,9 +71,6 @@ export default function TemplatesDropdown() {
                             </ul>
                           </div>
                         ))}
-                      </div>
-                      <div className="w-[35%] xl:w-[30%]">
-                        <Collection />
                       </div>
                     </div>
                   </div>
